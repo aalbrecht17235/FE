@@ -1,0 +1,11 @@
+{
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LargeCard": {
+    "description": "Auto imported from components/LargeCard.vue"
+  },
+  "LargeCardDisplay": {
+    "description": "Auto imported from components/LargeCardDisplay.vue"
+  }
+}
