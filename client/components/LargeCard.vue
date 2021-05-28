@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <img :src="require()" alt="fe" class="image">
+    <img :src="require(`@/assets/images/${card.image || 'fe1.jpg'}`)" alt="fe" class="image">
     <h3 class="header">
       {{ card.title }}
     </h3>
@@ -12,6 +12,7 @@
 
 <script>
 export default {
+  // eslint-disable-next-line vue/require-prop-types
   props: ['card']
 }
 </script>
