@@ -3,24 +3,28 @@
     "name": "my-items",
     "path": "/my-items",
     "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/my-items.vue",
-    "chunkName": "pages/my-items"
+    "chunkName": "pages/my-items",
+    "_name": "_3f457e1b"
   },
   {
     "name": "products",
     "path": "/products",
     "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/products/index.vue",
-    "chunkName": "pages/products/index"
+    "chunkName": "pages/products/index",
+    "_name": "_aa4c89ba"
   },
   {
     "name": "products-id",
     "path": "/products/:id",
     "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/products/_id.vue",
-    "chunkName": "pages/products/_id"
+    "chunkName": "pages/products/_id",
+    "_name": "_325bab6a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_0e546b74"
   }
 ]
