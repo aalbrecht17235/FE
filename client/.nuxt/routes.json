@@ -1,9 +1,26 @@
 [
   {
+    "name": "my-items",
+    "path": "/my-items",
+    "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/my-items.vue",
+    "chunkName": "pages/my-items"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/products/index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/products/_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/andrew/Documents/Coding Tutorials/FireExtinguisher/client/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0e546b74"
+    "chunkName": "pages/index"
   }
 ]

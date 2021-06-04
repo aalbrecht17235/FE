@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    // eslint-disable-next-line vue/html-self-closing
     <h4 class="header">
       {{ smallCardsSection.title }}
     </h4>
